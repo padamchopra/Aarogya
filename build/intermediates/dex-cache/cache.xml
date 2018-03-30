@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/562ea6ecc221c7beb1819fadf1a65513/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fba4fe02a4ea786ef5f2e78fcbd8f51d999ad767">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.8.0.aar/772d9132c30ad0a468e1b4bec709196c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.8.0.aar/facf18bbb9b64347c68e99195b88fa2b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5c787f82f3e31a1c639c799d19b9999dcb4f451">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/69aa5c3ec50568e81b90a3712fb213f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2208fc058d44d1bfdd3c713185fc13c8ea333320">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/9d0c4a48275610deeee8b1da2af2955d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.8.0.aar/eb59099584811cadf5e0821967937f4c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67fc961d875e770ba5f9a4f4573d5b257c06424a">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/e1b9f3f2b3b31b1eb47d04146e0c09df/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/53cf3d06a6ba8d4e2f3194cceb3487b7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/207ca62659f63c2b34b7366931c1dc8f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f4daa3cdaa8476e1e952279e9a7b3ba6ac8012fe">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/cd70fc07b3e46445710644112161d27f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/ae6073506ac821676315b17b2ff98e8f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/e950a16d122c21abc648dd509709ca3d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.8.0.aar/75385293032b896b7924a6fc4a3d2290/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31ef45383dcfc253588a3be0b49996821ce816c5">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.8.0.aar/d221b6142f5e151928b637a79b2b9c8f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9b7d070f3024fde0cb59e6358f44e6c076025426">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/9c49f751c50f46f53fab226e8798cea1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="541e0b6826726943a93e78613feaa4c6e7915e35">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/e7894e62786b90d301c56d043e5713c5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/24adcb6c90dda58b0c9afb1afb5b79b8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cdca967c6341e3e8dce1aff35352a903ad47ca7">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/196396daee5459a5e7a3acb9e78290f2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf42968b00f665dae552206e33705877b949b333">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0eb87b5d209aa8195cd6188ee7700c6e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/bf4b29b177c0770e5a7a128e201d8257/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/1798a1c875f65c8bb5b8c70e512da9ca/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0d0a5556a44465b2a2a67b26446e1b44/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/8541b3d4daebb05720b83e13ff0bd082/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.8.0.aar/595e25b06fe4566b825b054c59c97f71/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="428d38169e58cef7cfcac5776135a82cc9f6735e">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/5a4ecf51f0bf569c8b7bfb7bfe4e6472/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/76d32cf98f4aa29b690faa4aa65f6522/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07ce024be0a1c178d857ec2fe55a99011c2ff7a2">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/37cea842c5e1cc8f74cc0cae047ee7f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/54a706c14999b2128b380c66c3e7b73a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38ceaeb22ef95d1a0d320ecdad9be7383d6b7923">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/06ca1b4ade244f1f18a445fd90052c05/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aba77345f8bb32d4433b88c51ced5b9c5f2d4459">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e113ac427f86348e6175fc89f05e3436/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.8.0.aar/4980076eb6d41988608502c6c169743f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="890ae0bc8fff3c23e8759304235e14b3a536ad80">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/4f8ea9893c5bfdccabff3cf721061564/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/458cc739d171c8886490192bf17dd05e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="16f186a432ab801268bee4a20c038c9fa35a2901">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/4a36a6ba17ac20f2f9a066306d2fec7e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7edf6db4e4e673ee210c68bc16f0ac01b3153e81">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/21a265f9ef5855dc090934d6104ecd3d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/98f872051c85e065c37ba7bfbe9d55b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f525403c809a032a6849519be7aa8bb98146946">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/6eb8e0d8d02f3a8588636aed5d4338be/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/7b210eeecdc56d9a9717d766ba8fa05d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6de702a84f62173f3a9c7a1066d81cd11120f40">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/55b232094a68a0746c633be09c7c500a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd3e4eb77a31986f61e69f12fcad302618db34b7">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/ec816dd09d738305f83179b72f3d3eb7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/015e1bb618a9778d70abf5712ee3d5b7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="263d4b3cb11781467a6fa04450b1a72727c541f3">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e201e8d675615259c3565ad8a067843a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/9ed81d11fdeb80ce16e261143fd48b15/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/524f2a4dca2a3d7abc2ac96229f624fc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecd0a96f6bda796eeffafb066a93c84163b72234">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/be7a653fc2d78ed965854fe17513d5cd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/padamchopra/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/65fefb67a57b57ffb2559604f63208ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99e6d4fce7eaa92916cf26f951414b1849ce4ef5">
+        <dex dex="/home/padamchopra/Documents/GitClones/Aarogya/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+
+</items>

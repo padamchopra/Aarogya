@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aarogya</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="drop_points">Drop points</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="welcome_to_the_aarogya_app">Welcome to the Aarogya app</string>
+    <string name="please_update_your_details">Please update your details</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="reference">How did you hear about us?</string>
+    <string name="home">Home</string>
+    <string name="provide_my_location">Provide my location</string>
+    <string name="save_details">Save Details</string>
+    <string name="optional">*Optional</string>
+    <string name="aarogya_cover_photo">Aarogya Cover Photo</string>
+    <string name="padam_chopra">App developed by Padam Chopra</string>
+    <string name="meet_team">Meet the team</string>
+    <string name="for_more_info">For more information, visit us on </string>
+    <string name="facebook">Facebook</string>
+    <string name="navigate_to_add_reminder_to_get_started">Navigate to \'Add Reminder\' to get started</string>
+    <string name="there_are_no_active_reminders_as_of_now">There are no active reminders as of now</string>
+    <string name="here_are_your_active_reminders">Here are your active reminders:</string>
+    <string name="enter_details_of_the_medicine">Enter details of the medicine</string>
+    <string name="be_reminded_when_its_about_to_expire"><![CDATA[& be reminded when its about to expire]]></string>
+    <string name="med_name">Medicine Name</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="set_expiry_date">Set expiry date</string>
+    <string name="create_reminder">Create reminder</string>
+</resources>

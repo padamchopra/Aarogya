@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_home"
+        android:contentDescription="@string/home"
+        android:title="@string/home"/>
+    <item android:id="@+id/action_add_reminder"
+        android:contentDescription="@string/add_reminder"
+        android:title="@string/add_reminder"/>
+    <item android:id="@+id/action_drop_points"
+        android:contentDescription="@string/drop_points"
+        android:title="@string/drop_points"/>
+    <item android:id="@+id/action_profile"
+        android:contentDescription="@string/profile"
+        android:title="@string/profile"/>
+    <item android:id="@+id/action_about"
+        android:contentDescription="@string/about"
+        android:title="@string/about"/>
+</menu>

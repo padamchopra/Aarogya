@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118087958296",
+    "firebase_url": "https://aarogya-a8ebe.firebaseio.com",
+    "project_id": "aarogya-a8ebe",
+    "storage_bucket": "aarogya-a8ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118087958296:android:b58a6d122c12669a",
+        "android_client_info": {
+          "package_name": "io.github.padamchopra.aarogya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118087958296-kvur5uquplb3alv27qd6vtkm66v47c2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.padamchopra.aarogya",
+            "certificate_hash": "aef0369e8c096a9baa3c85c5731fbf30cd312f03"
+          }
+        },
+        {
+          "client_id": "118087958296-a23b6ira1tqsv6leseq83ookj68j02ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvd06jrb_l3YU0-qORM-W0IN7x9PANsfE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118087958296-a23b6ira1tqsv6leseq83ookj68j02ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
