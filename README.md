@@ -2,7 +2,7 @@
 Schedule reminders to prevent intake of expired medicines. Also get to know the location of medicinal waste collection 
 boxes near you to help make the earth a greener place to live in and to help Aarogya in their cause.
 
-Note: Speed build (2 hours)
+This app was developed in a 2 hour speed-build.
 
 <table>
 <tr>
